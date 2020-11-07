@@ -31,14 +31,10 @@ dt {
 }
 
 main {
-    font-family: Arial;
+    font-family: Sans-serif;
 }
 
 body {
     background-color: white;
     color: darkgray;
-}
-
-p {
-    font-family: Arial, Helvetica, sans-serif
 }
