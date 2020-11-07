@@ -1,0 +1,44 @@
+header {
+    background-color: #002171;
+    color: white;
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background:url(sunset.jpg)no-repeat right;
+    line-height: 400%;
+    text-indent: 1em;
+
+}
+
+nav {
+    background-color: skyblue;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h2 {
+    color: mediumblue;
+}
+
+dt {
+    color: darkblue;
+}
+
+.resort {
+    color: #5c7fa3;
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+body {
+    background-color: white;
+    color: white;
+}
