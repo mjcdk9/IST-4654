@@ -53,7 +53,7 @@ body {
 }
 
 ul {
-
+    list-style-image: url(marker.gif);
 }
 
 footer {
